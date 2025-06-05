@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HI17zxmriSQ7GJr/3Upt1F65lUe2nzd1izQ9uKGtQCw=",
+  "Source": "ImageReader",
+  "BasePath": "_content/ImageReader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

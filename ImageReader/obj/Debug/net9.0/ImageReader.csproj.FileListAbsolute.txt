@@ -1,0 +1,769 @@
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\appsettings.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ImageReader.staticwebassets.endpoints.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ImageReader.exe
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ImageReader.deps.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ImageReader.runtimeconfig.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ImageReader.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ImageReader.pdb
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\GenerativeAI.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Polly.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Polly.Core.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.csproj.AssemblyReference.cache
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.AssemblyInfoInputs.cache
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.AssemblyInfo.cs
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.csproj.CoreCompileInputs.cache
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\scopedcss\bundle\ImageReader.styles.css
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets\msbuild.ImageReader.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets\msbuild.ImageReader.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets\msbuild.build.ImageReader.props
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ImageReader.props
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ImageReader.props
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageRea.A2ED2D00.Up2Date
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\refint\ImageReader.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.pdb
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ImageReader.genruntimeconfig.cache
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\obj\Debug\net9.0\ref\ImageReader.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Private.Windows.Core.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\System.Private.Windows.GdiPlus.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\235620.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 3.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 2.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 3.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 5.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 10.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 11.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 12.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 13.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 14.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 15.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 16.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 17.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 18.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 19.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 2.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 3.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 4.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 5.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 6.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 7.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 8.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy 9.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images copy.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\images.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 2.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik...json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\mir copy 2.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\mir copy 3.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\mir copy 4.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\mir copy.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\mir.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 16.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 17.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 18.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 19.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 20.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 21.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 22.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 23.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 24.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 25.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 26.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 27.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 28.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 29.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 30.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 31.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 32.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 33.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 34.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 35.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 36.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 37.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 38.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 39.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 40.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 41.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 42.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 43.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 44.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 45.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 46.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 47.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 48.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 49.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 50.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 51.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 52.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 53.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 54.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 55.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 56.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 57.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 58.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 59.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 60.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 61.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 62.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 63.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 64.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 65.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 66.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy 67.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej copy.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\okej.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 10.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 100.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 101.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 102.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 103.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 104.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 105.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 106.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 107.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 108.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 109.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 11.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 110.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 111.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 112.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 113.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 114.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 115.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 116.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 117.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 118.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 119.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 12.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 120.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 121.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 122.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 123.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 13.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 14.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 15.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 16.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 17.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 18.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 19.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 20.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 21.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 22.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 23.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 24.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 25.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 26.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 27.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 28.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 29.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 30.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 31.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 32.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 33.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 34.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 35.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 36.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 37.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 38.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 39.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 4.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 40.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 41.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 42.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 43.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 44.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 45.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 46.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 47.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 48.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 49.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 5.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 50.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 51.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 52.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 53.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 54.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 55.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 56.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 57.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 58.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 59.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 6.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 60.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 61.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 62.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 63.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 64.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 65.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 66.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 67.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 68.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 69.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 7.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 70.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 71.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 72.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 73.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 74.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 75.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 76.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 77.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 78.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 79.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 8.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 80.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 81.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 82.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 83.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 84.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 85.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 86.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 87.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 88.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 89.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 9.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 90.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 91.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 92.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 93.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 94.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 95.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 96.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 97.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 98.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Albania-Identity-Card copy 99.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 10.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 11.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 12.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 13.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 14.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 15.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 16.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 17.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 18.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 19.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 20.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 21.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 22.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 23.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 24.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 25.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 26.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 27.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 28.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 29.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 30.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 31.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 32.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 33.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 34.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 35.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 36.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 37.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 38.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 39.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 4.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 40.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 41.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 42.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 43.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 44.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 45.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 46.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 47.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 48.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 49.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 50.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 51.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 52.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 53.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 54.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 55.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 56.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 57.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 58.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 59.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 6.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 60.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 61.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 62.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 63.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 64.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 65.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 66.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 67.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 68.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 69.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 7.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 70.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 71.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 72.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 73.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 74.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 75.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 76.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 77.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 78.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 79.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 8.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 80.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 81.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 82.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 83.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 84.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 85.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 86.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 87.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 88.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 89.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 9.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 90.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 91.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 92.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 93.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 94.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 95.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 96.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 97.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 98.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\F3rYzmGW4AAlJbP copy 99.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 10.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 100.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 101.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 102.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 103.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 104.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 105.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 106.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 107.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 108.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 109.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 11.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 110.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 111.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 112.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 113.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 114.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 115.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 116.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 117.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 118.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 119.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 12.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 120.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 121.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 122.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 123.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 124.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 125.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 126.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 127.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 128.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 129.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 13.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 14.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 15.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 16.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 17.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 18.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 19.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 20.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 21.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 22.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 23.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 24.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 25.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 26.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 27.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 28.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 29.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 3.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 30.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 31.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 32.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 33.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 34.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 35.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 36.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 37.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 38.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 39.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 4.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 40.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 41.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 42.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 43.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 44.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 45.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 46.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 47.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 48.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 49.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 5.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 50.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 51.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 52.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 53.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 54.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 55.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 56.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 57.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 58.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 59.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 6.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 60.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 61.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 62.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 63.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 64.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 65.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 66.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 67.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 68.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 69.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 7.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 70.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 71.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 72.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 73.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 74.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 75.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 76.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 77.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 78.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 79.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 8.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 80.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 81.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 82.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 83.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 84.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 85.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 86.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 87.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 88.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 89.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 9.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 90.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 91.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 92.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 93.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 94.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 95.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 96.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 97.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 98.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\Leternjoftimi_shqiptar_biometrik.. copy 99.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 10.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 100.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 101.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 102.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 103.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 104.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 105.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 106.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 107.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 108.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 109.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 11.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 110.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 111.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 112.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 113.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 114.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 115.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 116.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 117.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 118.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 119.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 12.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 120.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 121.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 122.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 123.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 124.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 125.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 126.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 127.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 128.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 129.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 13.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 130.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 131.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 132.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 133.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 134.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 135.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 136.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 137.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 138.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 139.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 14.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 140.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 141.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 142.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 143.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 144.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 145.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 146.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 147.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 148.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 149.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 15.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 150.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 151.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 152.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 153.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 154.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 155.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 156.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 157.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 158.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 159.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 16.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 160.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 161.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 162.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 163.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 164.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 165.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 166.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 167.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 168.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 169.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 17.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 18.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 19.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 2.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 20.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 21.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 22.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 23.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 24.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 25.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 26.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 27.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 28.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 29.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 3.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 30.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 31.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 32.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 33.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 34.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 35.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 36.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 37.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 38.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 39.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 4.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 40.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 41.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 42.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 43.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 44.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 45.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 46.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 47.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 48.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 49.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 5.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 50.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 51.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 52.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 53.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 54.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 55.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 56.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 57.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 58.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 59.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 6.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 60.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 61.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 62.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 63.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 64.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 65.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 66.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 67.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 68.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 69.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 7.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 70.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 71.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 72.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 73.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 74.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 75.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 76.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 77.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 78.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 79.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 8.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 80.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 81.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 82.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 83.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 84.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 85.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 86.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 87.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 88.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 89.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 9.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 90.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 91.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 92.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 93.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 94.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 95.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 96.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 97.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 98.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy 99.json
+C:\Users\Beci\Desktop\Easy-Pay\ImageReader\ImageReader\bin\Debug\net9.0\Outputs\unnamed copy.json
