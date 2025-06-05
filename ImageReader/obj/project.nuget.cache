@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JqpFRV5ln9A=",
+  "dgSpecHash": "uySO4nyqyQ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\ImageReader\\ImageReader\\ImageReader.csproj",
+  "projectFilePath": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\IdCardDataExtracter\\ImageReader\\ImageReader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beci\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Beci\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

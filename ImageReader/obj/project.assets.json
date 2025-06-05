@@ -4974,11 +4974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\ImageReader\\ImageReader\\ImageReader.csproj",
+      "projectUniqueName": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\IdCardDataExtracter\\ImageReader\\ImageReader.csproj",
       "projectName": "ImageReader",
-      "projectPath": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\ImageReader\\ImageReader\\ImageReader.csproj",
+      "projectPath": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\IdCardDataExtracter\\ImageReader\\ImageReader.csproj",
       "packagesPath": "C:\\Users\\Beci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\ImageReader\\ImageReader\\obj\\",
+      "outputPath": "C:\\Users\\Beci\\Desktop\\Easy-Pay\\IdCardDataExtracter\\ImageReader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beci\\AppData\\Roaming\\NuGet\\NuGet.Config"
