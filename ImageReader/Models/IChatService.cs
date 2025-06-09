@@ -1,14 +1,13 @@
+using System.Threading.Tasks;
+using ImageReader.Models;
 
-
-using System.Drawing;
-
-namespace ImageReader.Models;
-
-public interface IChatService
+namespace ImageReader.Services
 {
-       Task<ChatResponseDto> SendImageMessageAsync(
+    public interface IChatService
+    {
+        Task<ChatResponseDto> SendImageMessageAsync(
             string prompt,
             string mimeType,
             byte[] imageBytes);
-
+    }
 }

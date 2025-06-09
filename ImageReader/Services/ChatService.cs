@@ -6,20 +6,19 @@ namespace ImageReader.Services
 {
     public class ChatService : IChatService
     {
-        private readonly IHttpClientFactory _httpClientFactory;
+        private readonly IHttpClientFactory _httpFactory;
         private readonly string _geminiUrl;
-
-
         private readonly string _systemPrompt;
 
         public ChatService(
-            IHttpClientFactory httpClientFactory,
-            IConfiguration configuration)
+            IHttpClientFactory httpFactory,
+            string apiKey,
+            string systemPrompt,
+            string model = "gemini-2.0-flash")
         {
-            _httpClientFactory = httpClientFactory;
-
-            _systemPrompt = configuration["SystemPrompt"];
-            _geminiUrl = $"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyDDkX5zu-iFnIHOBIPw3COgXaoRTBJA0zQ";
+            _httpFactory = httpFactory;
+            _systemPrompt = systemPrompt.Trim();
+            _geminiUrl = $"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={apiKey}";
         }
 
         public async Task<ChatResponseDto> SendImageMessageAsync(
@@ -27,12 +26,13 @@ namespace ImageReader.Services
             string mimeType,
             byte[] imageBytes)
         {
-            string base64Data = Convert.ToBase64String(imageBytes);
+            var data = Convert.ToBase64String(imageBytes);
 
-            string combinedPrompt = string.IsNullOrWhiteSpace(_systemPrompt)
+            var combined = string.IsNullOrWhiteSpace(_systemPrompt)
                 ? prompt
-                : $"{_systemPrompt.Trim()}\n{prompt.Trim()}";
-             var payloadObject = new
+                : $"{_systemPrompt}\n{prompt}";
+
+            var payload = new
             {
                 contents = new[]
                 {
@@ -41,13 +41,13 @@ namespace ImageReader.Services
                         role = "user",
                         parts = new object[]
                         {
-                            new { text = combinedPrompt },
+                            new { text = combined },
                             new
                             {
                                 inlineData = new
                                 {
                                     mimeType = mimeType,
-                                    data = base64Data
+                                    data = data
                                 }
                             }
                         }
@@ -55,63 +55,50 @@ namespace ImageReader.Services
                 }
             };
 
-            var jsonString = JsonSerializer.Serialize(payloadObject, new JsonSerializerOptions
-            {
-                WriteIndented = false
-            });
+            var json = JsonSerializer.Serialize(payload);
+            var client = _httpFactory.CreateClient();
+            using var content = new StringContent(json, Encoding.UTF8, "application/json");
+            using var res = await client.PostAsync(_geminiUrl, content);
+            res.EnsureSuccessStatusCode();
 
-             Console.WriteLine("[DEBUG] Gemini Payload:");
-            Console.WriteLine(combinedPrompt);
-            var client = _httpClientFactory.CreateClient();
-            using var content = new StringContent(jsonString, Encoding.UTF8, "application/json");
-            using var response = await client.PostAsync(_geminiUrl, content);
-
-            response.EnsureSuccessStatusCode();
-
-            string responseBody = await response.Content.ReadAsStringAsync();
+            var body = await res.Content.ReadAsStringAsync();
 
             try
             {
-                using var doc = JsonDocument.Parse(responseBody);
+                using var doc = JsonDocument.Parse(body);
                 var root = doc.RootElement;
 
-                var candidates = root.GetProperty("candidates");
-                if (candidates.GetArrayLength() == 0)
-                    throw new Exception("No candidates in Gemini response.");
-
-                var firstCandidate = candidates[0];
-                var contentObj = firstCandidate.GetProperty("content");
-                var parts = contentObj.GetProperty("parts");
+                var parts = root
+                    .GetProperty("candidates")[0]
+                    .GetProperty("content")
+                    .GetProperty("parts")
+                    .EnumerateArray();
 
                 var sb = new StringBuilder();
-                foreach (var part in parts.EnumerateArray())
-                {
-                    if (part.TryGetProperty("text", out var textElement))
-                    {
-                        sb.AppendLine(textElement.GetString());
-                    }
-                }
-                var usageMetadata = root.GetProperty("usageMetadata"); 
+                foreach (var p in parts)
+                    if (p.TryGetProperty("text", out var t))
+                        sb.AppendLine(t.GetString());
 
-                var promptTokenCount = usageMetadata.GetProperty("promptTokenCount").GetInt32();
-                var totalTokenCount = usageMetadata.GetProperty("totalTokenCount").GetInt32();
+                var usage = root.GetProperty("usageMetadata");
+                long total = usage.GetProperty("totalTokenCount").GetInt64();
+                long promptT = usage.GetProperty("promptTokenCount").GetInt64();
 
                 return new ChatResponseDto
                 {
                     Reply = sb.ToString().Trim(),
-                        Usage = new UsageDto
+                    Usage = new UsageDto
                     {
-                        PromptTokens = promptTokenCount,
-                        TotalTokens = totalTokenCount
+                        PromptTokens = promptT,
+                        TotalTokens = total
                     }
                 };
             }
-            catch (Exception parseEx)
+            catch (Exception ex)
             {
                 return new ChatResponseDto
                 {
-                    Reply = $"<could not parse response: {parseEx.Message}>\nRaw JSON:\n{responseBody}"
-                     
+                    Reply = $"<parse error: {ex.Message}>\n{body}",
+                    Usage = new UsageDto()
                 };
             }
         }

@@ -1,4 +1,3 @@
-using GenerativeAI;
 using ImageReader.Data;
 using ImageReader.Models;
 using ImageReader.Services;
@@ -7,50 +6,51 @@ using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1) Register OpenAPI (Swagger) if in Development
-builder.Services.AddOpenApi();
+builder.Services.Configure<GenerativeAiOptions>(options =>
+{
+    options.ApiKeys = new List<string>
+    {
+        builder.Configuration["GeminiApiKey1"] ?? "",
+        builder.Configuration["GeminiApiKey2"] ?? ""
+    };
+    options.UploadFolders = new List<string>
+    {
+        builder.Configuration["Uploads1"] ?? "Uploads1",
+        builder.Configuration["Uploads2"] ?? "Uploads2"
+    };
+    options.SystemPrompt = builder.Configuration["SystemPrompt"] ?? "";
+});
 
-// 2) Register DbContext (unchanged)
+builder.Services.AddHttpClient();
+
+builder.Services.AddSingleton<Func<string, IChatService>>(sp =>
+{
+    var opts = sp.GetRequiredService<IOptions<GenerativeAiOptions>>().Value;
+    return (apiKey) => new ChatService(
+        sp.GetRequiredService<IHttpClientFactory>(),
+        apiKey,
+        opts.SystemPrompt);
+});
+
+builder.Services.AddOpenApi();
 builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection"),
-        sql => sql.EnableRetryOnFailure()
-    )
-);
+        sql => sql.EnableRetryOnFailure()));
 
-// 3) Bind GenerativeAI settings from configuration
-builder.Services.Configure<GenerativeAiOptions>(
-    builder.Configuration.GetSection("GenerativeAI")
-);
-
-// 4) IMPORTANT: Register IHttpClientFactory so ChatService can use it
-builder.Services.AddHttpClient();
-
-// 5) Register GoogleAi singleton using the configured API key
-builder.Services.AddSingleton(sp =>
-{
-    var opts = sp.GetRequiredService<IOptions<GenerativeAiOptions>>().Value;
-    return new GoogleAi(opts.ApiKey);
-});
-
-// 6) Register ChatService and IdCardUploadService
-builder.Services.AddScoped<IChatService, ChatService>();
 builder.Services.AddScoped<IIdCardUploadService, IdCardUploadService>();
 
 var app = builder.Build();
 
-// 7) Map OpenAPI endpoint when in Development
 if (app.Environment.IsDevelopment())
-{
     app.MapOpenApi();
-}
 
-// 8) Expose a GET endpoint to trigger image processing
-app.MapGet("/process-uploads", async (IIdCardUploadService svc) =>
+app.MapGet("/process-uploads", async (
+    IIdCardUploadService svc
+) =>
 {
-    // Assumes there is an "Uploads" folder in the application root
-    var results = await svc.ProcessUploadsAsync("Uploads");
-    return Results.Ok(results);
+    var result = await svc.ProcessUploadsAsync();
+    return Results.Ok(result);
 });
 
 app.UseHttpsRedirection();

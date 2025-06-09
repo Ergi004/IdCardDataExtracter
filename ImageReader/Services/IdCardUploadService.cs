@@ -1,173 +1,222 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
+
 using ImageReader.Models;
+using Microsoft.Extensions.Options;
 
 namespace ImageReader.Services
 {
     public class IdCardUploadService : IIdCardUploadService
     {
-        private readonly IChatService _chatService;
+        private readonly Func<string, IChatService> _chatServiceFactory;
+        private readonly GenerativeAiOptions _options;
 
-        // Track requests per minute
-        private int _requestsThisMinute = 0;
-        private DateTime _minuteWindowStart = DateTime.UtcNow;
+        private const int MAX_REQUESTS_PER_MIN = 10;
+        private const long MAX_TOKENS_PER_HOUR = 900_000;
+        private readonly TimeSpan MINUTE_WINDOW = TimeSpan.FromMinutes(1);
+        private readonly TimeSpan HOUR_WINDOW = TimeSpan.FromHours(1);
+        private readonly TimeSpan BETWEEN_CALL_WAIT = TimeSpan.FromSeconds(6);
+        private readonly TimeSpan CUSHION = TimeSpan.FromSeconds(3);
 
-        // Track tokens per hour
-        private long _tokensThisHour = 0;
-        private DateTime _hourWindowStart = DateTime.UtcNow;
-
-        public IdCardUploadService(IChatService chatService)
+        public IdCardUploadService(
+            Func<string, IChatService> chatServiceFactory,
+            IOptions<GenerativeAiOptions> options)
         {
-            _chatService = chatService;
+            _chatServiceFactory = chatServiceFactory;
+            _options = options.Value;
         }
 
-        public async Task<IList<ImageTextResult>> ProcessUploadsAsync(
-            string uploadsPath,
+        public async Task<IEnumerable<IdCardReturnResult>> ProcessUploadsAsync(
             CancellationToken cancellationToken = default)
         {
+            var folderApiPairs = _options.UploadFolders
+                .Zip(_options.ApiKeys, (folder, apiKey) => new { Folder = folder, ApiKey = apiKey })
+                .ToList();
+
+            var tasks = folderApiPairs.Select(pair => 
+                ProcessSingleFolderAsync(
+                    uploadsPath: pair.Folder,
+                    apiKey: pair.ApiKey,
+                    cancellationToken: cancellationToken
+                )).ToList();
+
+            Console.WriteLine($"Starting parallel processing of {tasks.Count} folders...");
+
+            var results = await Task.WhenAll(tasks);
+            
+            Console.WriteLine("All folders processed successfully!");
+            return results;
+        }
+
+        private async Task<IdCardReturnResult> ProcessSingleFolderAsync(
+            string uploadsPath,
+            string apiKey,
+            CancellationToken cancellationToken)
+        {
             var results = new List<ImageTextResult>();
+            var chatService = _chatServiceFactory(apiKey);
+
+            var rateLimiter = new RateLimiter
+            {
+                RequestsThisMinute = 0,
+                MinuteWindowStart = DateTime.UtcNow,
+                TokensThisHour = 0,
+                HourWindowStart = DateTime.UtcNow
+            };
+
+            Console.WriteLine($"[{uploadsPath}] Starting processing with API key: {apiKey[..10]}...");
 
             var filePaths = Directory
                 .EnumerateFiles(uploadsPath, "*.*", SearchOption.TopDirectoryOnly)
-                .Where(path =>
-                    path.EndsWith(".jpg", StringComparison.OrdinalIgnoreCase) ||
-                    path.EndsWith(".jpeg", StringComparison.OrdinalIgnoreCase) ||
-                    path.EndsWith(".png", StringComparison.OrdinalIgnoreCase)
-                )
+                .Where(p => p.EndsWith(".jpg", StringComparison.OrdinalIgnoreCase)
+                         || p.EndsWith(".jpeg", StringComparison.OrdinalIgnoreCase)
+                         || p.EndsWith(".png", StringComparison.OrdinalIgnoreCase))
                 .ToList();
 
-            string baseDir = Directory.GetCurrentDirectory();
-            string outputsFolder = Path.Combine(baseDir, "Outputs");
+            Console.WriteLine($"[{uploadsPath}] Found {filePaths.Count} image files to process");
+
+            string outputsFolder = Path.Combine(
+                Directory.GetCurrentDirectory(),
+                "Outputs",
+                Path.GetFileName(uploadsPath)
+            );
             if (!Directory.Exists(outputsFolder))
+            {
                 Directory.CreateDirectory(outputsFolder);
+                Console.WriteLine($"[{uploadsPath}] Created output directory: {outputsFolder}");
+            }
 
             foreach (var path in filePaths)
             {
                 cancellationToken.ThrowIfCancellationRequested();
+                
+                rateLimiter = await EnforceRateLimitsAsync(rateLimiter, uploadsPath, cancellationToken);
 
-                var now = DateTime.UtcNow;
-                if ((now - _minuteWindowStart).TotalMinutes >= 1)
-                {
-                    _minuteWindowStart = now;
-                    _requestsThisMinute = 0;
-                }
-                else if (_requestsThisMinute >= 8)
-                {
-                    var waitTime = TimeSpan.FromMinutes(1.2) - (now - _minuteWindowStart);
-                    Console.WriteLine($"[RateLimit] 15 requests reached. Waiting {waitTime.TotalSeconds:N0}s …");
-                    await Task.Delay(waitTime, cancellationToken);
-                    _minuteWindowStart = DateTime.UtcNow;
-                    _requestsThisMinute = 0;
-                }
-
-                now = DateTime.UtcNow;
-                if ((now - _hourWindowStart).TotalHours >= 1)
-                {
-                    _hourWindowStart = now;
-                    _tokensThisHour = 0;
-                }
-
-                string fileName = Path.GetFileName(path);
-                Console.WriteLine($"Processing {fileName} ...");
+                var fileName = Path.GetFileName(path);
+                Console.WriteLine($"[{uploadsPath}] Processing {fileName}...");
 
                 try
                 {
-                    byte[] imageBytes = await File.ReadAllBytesAsync(path, cancellationToken);
-
-                    string mimeType = path.EndsWith(".png", StringComparison.OrdinalIgnoreCase)
+                    var imageBytes = await File.ReadAllBytesAsync(path, cancellationToken);
+                    var mimeType = path.EndsWith(".png", StringComparison.OrdinalIgnoreCase)
                         ? "image/png"
                         : "image/jpeg";
 
-                    string prompt = @"
+                    var prompt = @"
 You are an expert OCR and data-extraction assistant. The next payload is a raw ID card image (binary).
 Extract exactly these four fields and output only a JSON object (no extra text, no markdown fences):
-  ""FullName"" (full name as printed),
-  ""IdNumber"" (ID or passport number),
-  ""DateOfBirth"" (YYYY-MM-DD),
-  ""CountryOfIssue"" (three-letter country code or full country name).
-If you cannot read it, return in JSON format exactly: {""message"":""cannot read image""}.";
+""FullName"", ""IdNumber"", ""DateOfBirth"" (YYYY-MM-DD), ""CountryOfIssue"".";
 
-                    ChatResponseDto chatResponse = await _chatService.SendImageMessageAsync(
+                    var response = await chatService.SendImageMessageAsync(
                         prompt: prompt.Trim(),
                         mimeType: mimeType,
                         imageBytes: imageBytes
                     );
 
-                    _requestsThisMinute++;
+                    rateLimiter.RequestsThisMinute++;
+                    rateLimiter.TokensThisHour += response.Usage.TotalTokens ?? 0;
 
-                    var usedTokens = chatResponse.Usage.TotalTokens ?? 0;
-                    _tokensThisHour += usedTokens;
+                    var cleaned = CleanCodeFences(response.Reply);
 
-                    if (_tokensThisHour >= 1_000_000)
+                    results.Add(new ImageTextResult
                     {
-                        Console.WriteLine($"[TokenLimit] Reached {_tokensThisHour} tokens. Waiting 65 minutes …");
-                        await Task.Delay(TimeSpan.FromMinutes(65), cancellationToken);
-                        _hourWindowStart = DateTime.UtcNow;
-                        _tokensThisHour = 0;
-                    }
+                        FileName = fileName,
+                        ExtractedText = cleaned,
+                        Usage = response.Usage
+                    });
 
-                    string rawReply = chatResponse.Reply.Trim();
-                    string cleanedJson = CleanCodeFences(rawReply);
-                    var usageMeta = chatResponse.Usage;
-
-                    var imageResult = new ImageTextResult
-                    {
-                        FileName      = fileName,
-                        ExtractedText = cleanedJson,
-                        Usage         = usageMeta
-                    };
-                    results.Add(imageResult);
-
-                    string outName = Path.GetFileNameWithoutExtension(fileName) + ".json";
-                    string outPath = Path.Combine(outputsFolder, outName);
-                    await File.WriteAllTextAsync(outPath, cleanedJson, cancellationToken);
-
-                    Console.WriteLine($" → Wrote Outputs/{outName}");
+                    var outPath = Path.Combine(
+                        outputsFolder,
+                        Path.GetFileNameWithoutExtension(fileName) + ".json"
+                    );
+                    await File.WriteAllTextAsync(outPath, cleaned, cancellationToken);
+                    Console.WriteLine($"[{uploadsPath}] → Wrote {outPath}");
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($" ERROR on {fileName}: {ex.Message}");
-
-                    var errorJson = $"{{ \"message\": \"<error: {ex.Message}>\" }}";
+                    Console.WriteLine($"[ERROR] {uploadsPath}/{fileName}: {ex.Message}");
+                    var err = $"{{ \"message\": \"<error: {ex.Message}>\" }}";
                     results.Add(new ImageTextResult
                     {
-                        FileName      = fileName,
-                        ExtractedText = errorJson
+                        FileName = fileName,
+                        ExtractedText = err,
+                        Usage = new UsageDto()
                     });
-
-                    string outName = Path.GetFileNameWithoutExtension(fileName) + ".json";
-                    string outPath = Path.Combine(outputsFolder, outName);
-                    await File.WriteAllTextAsync(outPath, errorJson, cancellationToken);
+                    
+                    var outPath = Path.Combine(
+                        outputsFolder,
+                        Path.GetFileNameWithoutExtension(fileName) + ".json"
+                    );
+                    await File.WriteAllTextAsync(outPath, err, cancellationToken);
                 }
+
+                Console.WriteLine($"[{uploadsPath}] Waiting {BETWEEN_CALL_WAIT.TotalSeconds}s before next request...");
+                await Task.Delay(BETWEEN_CALL_WAIT, cancellationToken);
             }
 
-            return results;
+            Console.WriteLine($"[{uploadsPath}] Completed processing {results.Count} files");
+
+            return new IdCardReturnResult
+            {
+                Length = results.Count,
+                Result = results
+            };
+        }
+
+        private class RateLimiter
+        {
+            public int RequestsThisMinute { get; set; }
+            public DateTime MinuteWindowStart { get; set; }
+            public long TokensThisHour { get; set; }
+            public DateTime HourWindowStart { get; set; }
+        }
+
+        private async Task<RateLimiter> EnforceRateLimitsAsync(
+            RateLimiter limiter,
+            string folderName,
+            CancellationToken cancellationToken)
+        {
+            var now = DateTime.UtcNow;
+
+            if (now - limiter.MinuteWindowStart >= MINUTE_WINDOW)
+            {
+                limiter.MinuteWindowStart = now;
+                limiter.RequestsThisMinute = 0;
+            }
+            if (now - limiter.HourWindowStart >= HOUR_WINDOW)
+            {
+                limiter.HourWindowStart = now;
+                limiter.TokensThisHour = 0;
+            }
+
+            if (limiter.RequestsThisMinute >= MAX_REQUESTS_PER_MIN)
+            {
+                var wait = (limiter.MinuteWindowStart + MINUTE_WINDOW) - now + CUSHION;
+                Console.WriteLine($"[{folderName}] Rate limit reached. Waiting {wait.TotalSeconds:N0}s...");
+                await Task.Delay(wait, cancellationToken);
+                limiter.MinuteWindowStart = DateTime.UtcNow;
+                limiter.RequestsThisMinute = 0;
+            }
+            if (limiter.TokensThisHour >= MAX_TOKENS_PER_HOUR)
+            {
+                var wait = (limiter.HourWindowStart + HOUR_WINDOW) - now + CUSHION;
+                Console.WriteLine($"[{folderName}] Token limit reached. Waiting {wait.TotalMinutes:N0}m...");
+                await Task.Delay(wait, cancellationToken);
+                limiter.HourWindowStart = DateTime.UtcNow;
+                limiter.TokensThisHour = 0;
+            }
+
+            return limiter;
         }
 
         private static string CleanCodeFences(string input)
         {
-            if (string.IsNullOrWhiteSpace(input))
-                return input;
-
-            string s = input.Trim();
-
-            if (s.StartsWith("```json", StringComparison.OrdinalIgnoreCase))
+            var s = input.Trim();
+            if (s.StartsWith("", StringComparison.OrdinalIgnoreCase))
             {
-                int firstNewLine = s.IndexOf('\n', StringComparison.Ordinal);
-                if (firstNewLine >= 0)
-                    s = s[(firstNewLine + 1)..];
+                var idx = s.IndexOf('\n', StringComparison.Ordinal);
+                if (idx >= 0) s = s[(idx + 1)..];
             }
-
-            if (s.StartsWith("```"))
-                s = s[3..];
-
-            if (s.EndsWith("```"))
-                s = s[..^3];
-
+            if (s.StartsWith("")) s = s[3..];
+            if (s.EndsWith("```")) s = s[..^3];
             return s.Trim();
         }
     }

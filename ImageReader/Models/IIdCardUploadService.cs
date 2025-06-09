@@ -1,3 +1,4 @@
+// Services/IIdCardUploadService.cs
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
@@ -8,11 +9,11 @@ namespace ImageReader.Services
     public interface IIdCardUploadService
     {
         /// <summary>
-        /// For each .jpg/.jpeg/.png in uploadsPath, send it to Gemini for OCR,
-        /// write a .txt file in Outputs/, and return a list of results.
+        /// Processes the configured upload directories in parallel, each using its own Gemini API key.
+        /// Returns one IdCardReturnResult per folder.
         /// </summary>
-        Task<IList<ImageTextResult>> ProcessUploadsAsync(
-            string uploadsPath,
+        /// <param name="cancellationToken">Optional cancellation token.</param>
+        Task<IEnumerable<IdCardReturnResult>> ProcessUploadsAsync(
             CancellationToken cancellationToken = default);
     }
 }
