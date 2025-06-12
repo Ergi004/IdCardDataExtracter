@@ -6,36 +6,46 @@ using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.Configure<GenerativeAiOptions>(options =>
+builder.Services.Configure<GenerativeAiOptions>(opts =>
 {
-    options.ApiKeys = new List<string>
+    opts.ApiKeys = new List<string>
     {
-        builder.Configuration["GeminiApiKey1"] ?? "",
-        builder.Configuration["GeminiApiKey2"] ?? ""
+        builder.Configuration["GeminiApiKey1"]!,
+        builder.Configuration["GeminiApiKey2"]!
     };
-    options.UploadFolders = new List<string>
+    opts.UploadFolders = new List<string>
     {
-        builder.Configuration["Uploads1"] ?? "Uploads1",
-        builder.Configuration["Uploads2"] ?? "Uploads2"
+        builder.Configuration["UploadsFolder1"] ?? "Uploads1",
+        builder.Configuration["UploadsFolder2"] ?? "Uploads2"
     };
-    options.SystemPrompt = builder.Configuration["SystemPrompt"] ?? "";
+    opts.SystemPrompt = builder.Configuration["SystemPrompt"] ?? "";
 });
 
 builder.Services.AddHttpClient();
 
-builder.Services.AddSingleton<Func<string, IChatService>>(sp =>
+builder.Services.AddSingleton<IChatService>(sp =>
 {
-    var opts = sp.GetRequiredService<IOptions<GenerativeAiOptions>>().Value;
-    return (apiKey) => new ChatService(
+    var cfg  = sp.GetRequiredService<IOptions<GenerativeAiOptions>>().Value;
+    var key1 = cfg.ApiKeys[0];
+    return new ChatService(
         sp.GetRequiredService<IHttpClientFactory>(),
-        apiKey,
-        opts.SystemPrompt);
+        key1,
+        cfg.SystemPrompt);
+});
+builder.Services.AddSingleton<IChatService>(sp =>
+{
+    var cfg  = sp.GetRequiredService<IOptions<GenerativeAiOptions>>().Value;
+    var key2 = cfg.ApiKeys[1];
+    return new ChatService(
+        sp.GetRequiredService<IHttpClientFactory>(),
+        key2,
+        cfg.SystemPrompt);
 });
 
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseSqlServer(
-        builder.Configuration.GetConnectionString("DefaultConnection"),
+        builder.Configuration.GetConnectionString("DefaultConnection")!,
         sql => sql.EnableRetryOnFailure()));
 
 builder.Services.AddScoped<IIdCardUploadService, IdCardUploadService>();
@@ -46,10 +56,12 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 
 app.MapGet("/process-uploads", async (
-    IIdCardUploadService svc
+    IIdCardUploadService svc,
+    IOptions<GenerativeAiOptions> cfg
 ) =>
 {
-    var result = await svc.ProcessUploadsAsync();
+    var folders = cfg.Value.UploadFolders;
+    var result  = await svc.ProcessUploadsAsync(folders);
     return Results.Ok(result);
 });
 

@@ -14,6 +14,7 @@ namespace ImageReader.Services
         /// </summary>
         /// <param name="cancellationToken">Optional cancellation token.</param>
         Task<IEnumerable<IdCardReturnResult>> ProcessUploadsAsync(
+            IEnumerable<string> uploadPaths,
             CancellationToken cancellationToken = default);
     }
 }
