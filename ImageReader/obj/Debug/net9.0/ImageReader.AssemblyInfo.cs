@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d690db8cb10bd95402a04c3b922cc01c515b711")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1dbb7297a5659f421025d8d2ab6393d3f18d736")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -80,7 +80,7 @@ namespace ImageReader.Services
                         var response = await chatService.SendImageMessageAsync(
                             prompt: @"
 You are an expert OCR and data-extraction assistant. Extract these fields to JSON only:
-  ""FullName"", ""IdNumber"", ""DateOfBirth"" (YYYY-MM-DD), ""CountryOfIssue"".".Trim(),
+  ""FullName"", ""IdNumber"", ""DateOfBirth"" (YYYY-MM-DD), ""CountryOfIssue"", ""DateOfIssue"" (YYYY-MM-DD),""PlaceOfBirth"", ""CardNumber"" ""Authority"",""Gender"",""DateOfExpiry"" (YYYY-MM-DD).".Trim(),
                             mimeType:   mimeType,
                             imageBytes: imageBytes
                         );
