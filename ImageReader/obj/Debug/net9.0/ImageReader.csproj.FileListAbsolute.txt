@@ -937,3 +937,9 @@ C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\obj\Debug\net9.0\
 C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\obj\Debug\net9.0\ref\ImageReader.dll
 C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads1\Albania-Identity-Card copy 273 (2) - Copy - Copy - Copy.json
 C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads2\Albania-Identity-Card copy (2) - Copy - Copy - Copy - Copy.json
+C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads1\Albania-Identity-Card copy 273 (2) - Copy - Copy.json
+C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads1\Albania-Identity-Card copy 273 (2) - Copy.json
+C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads1\Albania-Identity-Card copy 273 (2).json
+C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads2\Albania-Identity-Card copy (2) - Copy - Copy - Copy.json
+C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads2\Albania-Identity-Card copy (2) - Copy - Copy.json
+C:\Users\Beci\Desktop\Easy-Pay\IdCardDataExtracter\ImageReader\bin\Debug\net9.0\Outputs\Uploads2\Albania-Identity-Card copy (2) - Copy.json

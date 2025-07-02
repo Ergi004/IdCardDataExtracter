@@ -1,4 +1,3 @@
-using System.Threading.Tasks;
 using ImageReader.Models;
 
 namespace ImageReader.Services

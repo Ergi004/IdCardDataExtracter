@@ -50,6 +50,9 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 builder.Services.AddScoped<IIdCardUploadService, IdCardUploadService>();
 
+
+
+builder.Services.AddScoped<IJsonToCsvService, JsonToCsvService>();
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -61,9 +64,26 @@ app.MapGet("/process-uploads", async (
 ) =>
 {
     var folders = cfg.Value.UploadFolders;
-    var result  = await svc.ProcessUploadsAsync(folders);
+    var result = await svc.ProcessUploadsAsync(folders);
     return Results.Ok(result);
 });
+
+app.MapGet("/generate-csv", async (IJsonToCsvService csvService) =>
+{
+    try
+    {
+        var filePath = await csvService.CreateCsvFromJsonsAsync("id_cards_summary.csv");
+        return Results.Ok(new { message = "CSV generated successfully.", path = filePath });
+    }
+    catch (Exception ex)
+    {
+        return Results.Problem(
+            detail: ex.Message,
+            statusCode: StatusCodes.Status500InternalServerError
+        );
+    }
+});
+
 
 app.UseHttpsRedirection();
 app.Run();
